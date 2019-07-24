@@ -1,0 +1,10 @@
+1. URL : https://www.quora.com/How-can-I-make-a-simple-console-chess-game-with-C-read-details
+	This source was refered to plan about the steps in which problem can be solved
+2. URL : https://www.youtube.com/watch?v=-Qh1XUhBtL0
+		This source was referes to get an idea about how we can use data structre for chess
+3. URL : https://www.youtube.com/watch?v=gOwTJw9q27s
+		same as mentioned in point 2
+4. study material for DSA course on moodle
+		for implementing a stack like data structure
+5. stack overflow website
+		to identify and remove some errors related to the pointers
